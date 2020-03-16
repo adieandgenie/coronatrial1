@@ -1,0 +1,41 @@
+name,group,year,value,subGroup,city_id,lastValue,lat,lon,colour,rank
+Belgium,-,3/7/20,60,-,Belgium1,59,-,-,#C8BDFF,9
+China,-,3/7/20,80,-,China1,153,-,-,#C8BDFF,8
+Denmark,-,3/9/20,55,-,Denmark1,13,-,-,#C8BDFF,9
+Denmark,-,3/10/20,172,-,Denmark1,55,-,-,#C8BDFF,8
+France,-,3/7/20,296,-,France1,276,-,-,#C8BDFF,4
+France,-,3/8/20,177,-,France1,296,-,-,#C8BDFF,5
+France,-,3/9/20,83,-,France1,177,-,-,#C8BDFF,6
+France,-,3/10/20,575,-,France1,83,-,-,#C8BDFF,4
+Germany,-,3/7/20,129,-,Germany1,188,-,-,#C8BDFF,6
+Germany,-,3/8/20,241,-,Germany1,129,-,-,#C8BDFF,4
+Germany,-,3/9/20,136,-,Germany1,241,-,-,#C8BDFF,5
+Germany,-,3/10/20,281,-,Germany1,136,-,-,#C8BDFF,6
+Iran,-,3/7/20,1076,-,Iran1,1234,-,-,#C8BDFF,2
+Iran,-,3/8/20,743,-,Iran1,1076,-,-,#C8BDFF,2
+Iran,-,3/9/20,595,-,Iran1,743,-,-,#C8BDFF,2
+Iran,-,3/10/20,881,-,Iran1,595,-,-,#C8BDFF,2
+Italy,-,3/7/20,1247,-,Italy1,778,-,-,#C8BDFF,1
+Italy,-,3/8/20,1492,-,Italy1,1247,-,-,#C8BDFF,1
+Italy,-,3/9/20,1797,-,Italy1,1492,-,-,#C8BDFF,1
+Italy,-,3/10/20,977,-,Italy1,1797,-,-,#C8BDFF,1
+Netherlands,-,3/7/20,60,-,Netherlands1,46,-,-,#C8BDFF,10
+Netherlands,-,3/8/20,77,-,Netherlands1,60,-,-,#C8BDFF,8
+Netherlands,-,3/9/20,56,-,Netherlands1,77,-,-,#C8BDFF,8
+Norway,-,3/10/20,195,-,Norway1,29,-,-,#C8BDFF,7
+S. Korea,-,3/7/20,448,-,Korea1,505,-,-,#C8BDFF,3
+S. Korea,-,3/8/20,273,-,Korea1,448,-,-,#C8BDFF,3
+S. Korea,-,3/9/20,164,-,Korea1,273,-,-,#C8BDFF,4
+Spain,-,3/7/20,100,-,Spain1,141,-,-,#C8BDFF,7
+Spain,-,3/8/20,173,-,Spain1,100,-,-,#C8BDFF,6
+Spain,-,3/9/20,400,-,Spain1,173,-,-,#C8BDFF,3
+Spain,-,3/10/20,622,-,Spain1,400,-,-,#C8BDFF,3
+Sweden,-,3/10/20,107,-,Sweden1,45,-,-,#C8BDFF,10
+Switzerland,-,3/8/20,69,-,Switzerland1,54,-,-,#C8BDFF,9
+Switzerland,-,3/10/20,117,-,Switzerland1,37,-,-,#C8BDFF,9
+UK,-,3/8/20,67,-,UK1,43,-,-,#C8BDFF,10
+UK,-,3/9/20,48,-,UK1,67,-,-,#C8BDFF,10
+US,-,3/7/20,140,-,US1,45,-,-,#C8BDFF,5
+US,-,3/8/20,116,-,US1,140,-,-,#C8BDFF,7
+US,-,3/9/20,65,-,US1,116,-,-,#C8BDFF,7
+US,-,3/10/20,376,-,US1,65,-,-,#C8BDFF,5
